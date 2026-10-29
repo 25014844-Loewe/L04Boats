@@ -11,5 +11,4 @@ Top page screenshot: <br>
 
 
 Bottom page screenshot: <br>
-Bottom page screenshot: <br>
 <img alt="Bottom page screenshot" width="300" height="600" src="./Screenshots/Screenshot 2026-10-29 131426.png">
