@@ -11,4 +11,5 @@ Top page screenshot: <br>
 
 
 Bottom page screenshot: <br>
-<img alt="Screenshot 2026-10-29 131426.png" height="600" src="../../Users/loewe/OneDrive%20-%20Republic%20Polytechnic/Pictures/Screenshots/Screenshot%202026-10-29%20131426.png" width="300"/>
+Bottom page screenshot: <br>
+<img alt="Bottom page screenshot" width="300" height="600" src="./Screenshots/Screenshot 2026-10-29 131426.png">
